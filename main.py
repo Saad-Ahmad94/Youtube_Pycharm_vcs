@@ -16,6 +16,7 @@ if __name__ == '__main__':
     print('This is my World bro')
     print('Where do you live')
     print(f'Passowrd is: {password}')
-    print(adder(2,2))
+    print(multiplier(2,2))
+    x=3
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
